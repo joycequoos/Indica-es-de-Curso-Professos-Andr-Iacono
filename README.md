@@ -1,45 +1,45 @@
-# Indicações de Curso — Professor André Iacono
+# Course Recommendations — Professor André Iacono
 
-[← Voltar a Docker](https://github.com/joycequoos/Docker/blob/main/README.md)
+[← Back to Docker](https://github.com/joycequoos/Docker/blob/main/README.md)
 
-Lista de cursos recomendados pelo professor André Iacono na Udemy — prontos para começar imediatamente e ótimos para elevar o nível de expertise em diferentes áreas de tecnologia.
+A list of courses recommended by Professor André Iacono on Udemy — ready to start right away and great for leveling up your expertise in different areas of technology.
 
-## Índice
+## Table of Contents
 
-- [Destaques em IA](#destaques-em-ia)
-- [Outros cursos recomendados](#outros-cursos-recomendados)
-- [Próximos passos](#próximos-passos)
+- [AI Highlights](#ai-highlights)
+- [Other Recommended Courses](#other-recommended-courses)
+- [Next Steps](#next-steps)
 
 ---
 
-## Destaques em IA
+## AI Highlights
 
-| Curso | Link |
+| Course | Link |
 | --- | --- |
-| Aprenda Inteligência Artificial + 12 Ferramentas | [Acessar curso](https://www.udemy.com/course/inteligencia-artificial-para-iniciantes/?referralCode=3B21018C5E7156B514FC) |
-| Curso ChatGPT 4 Completo + 170 Prompts de Comando | [Acessar curso](https://www.udemy.com/course/chatgpt-4-a-masterclass/?referralCode=593D90EA4083E344FADB) |
-| Curso ChatGPT4 para Python + 7 Projetos Reais | [Acessar curso](https://www.udemy.com/course/draft/5217564/?referralCode=5B23A773D715E87A1B17) |
-| Curso ChatGPT4 para Amazon AWS + 7 Projetos Reais | [Acessar curso](https://www.udemy.com/course/chatgpt-para-amazon-aws/?referralCode=3DC9765FB407047A6B2A) |
+| Learn Artificial Intelligence + 12 Tools | [Go to course](https://www.udemy.com/course/inteligencia-artificial-para-iniciantes/?referralCode=3B21018C5E7156B514FC) |
+| Complete ChatGPT 4 Course + 170 Prompt Commands | [Go to course](https://www.udemy.com/course/chatgpt-4-a-masterclass/?referralCode=593D90EA4083E344FADB) |
+| ChatGPT4 for Python Course + 7 Real Projects | [Go to course](https://www.udemy.com/course/draft/5217564/?referralCode=5B23A773D715E87A1B17) |
+| ChatGPT4 for Amazon AWS Course + 7 Real Projects | [Go to course](https://www.udemy.com/course/chatgpt-para-amazon-aws/?referralCode=3DC9765FB407047A6B2A) |
 
-## Outros cursos recomendados
+## Other Recommended Courses
 
-Demais cursos recomendados, todos best-sellers na Udemy:
+Other recommended courses, all Udemy best-sellers:
 
-| Curso | Link |
+| Course | Link |
 | --- | --- |
-| JavaScript Completo do Zero ao Avançado + Projetos Reais | [Acessar curso](https://www.udemy.com/course/curso-completo-de-javascript-v/?referralCode=3CCA26563326B76686AA) |
-| Desenvolvimento Web Completo + Projetos Reais | [Acessar curso](https://www.udemy.com/course/desenvolvimento-web-completo/?referralCode=54ED8F748280F78C5A87) |
-| Aprenda Microsoft Power BI em 7 dias + Projetos Reais | [Acessar curso](https://www.udemy.com/course/aprenda-power-bi-em-7-dias/?referralCode=68AA35E3854A2600FA3A) |
-| Aprenda Git e GitHub em 3 dias | [Acessar curso](https://www.udemy.com/course/aprenda-git-e-github/?referralCode=ED51D4EC88BC19C1D6E3) |
-| Programação Python do Zero ao Avançado + Projetos Reais | [Acessar curso](https://www.udemy.com/course/programacao-python-do-basico-ao-avancado/?referralCode=F3FA8DD3A5FBBC7DA264) |
-| Aprenda Java em 7 dias + Projetos Reais | [Acessar curso](https://www.udemy.com/course/draft/5145484/?referralCode=15155426A27942B2E20A) |
-| Aprenda TypeScript em 7 dias + Projetos Reais | [Acessar curso](https://www.udemy.com/course/aprenda-typescript-em-7-dias/?referralCode=FDD60769121F40820D7B) |
-| Banco de Dados SQL do Zero ao Avançado | [Acessar curso](https://www.udemy.com/course/curso-sql-do-zero-ao-avancado/?referralCode=44FC5556E5BB0374D256) |
-| Aprenda Notion para Iniciantes em 2 horas | [Acessar curso](https://www.udemy.com/course/aprenda-notion/?referralCode=A0A34BB03B6AE1A0453A) |
-| Certificação Amazon AWS Cloud Practitioner (CLF-C02) | [Acessar curso](https://www.udemy.com/course/certificacao-amazon-aws-cloud-practitioner-clf-c02/?referralCode=CCDBB5BD4E8F8B020611) |
+| Complete JavaScript from Zero to Advanced + Real Projects | [Go to course](https://www.udemy.com/course/curso-completo-de-javascript-v/?referralCode=3CCA26563326B76686AA) |
+| Complete Web Development + Real Projects | [Go to course](https://www.udemy.com/course/desenvolvimento-web-completo/?referralCode=54ED8F748280F78C5A87) |
+| Learn Microsoft Power BI in 7 Days + Real Projects | [Go to course](https://www.udemy.com/course/aprenda-power-bi-em-7-dias/?referralCode=68AA35E3854A2600FA3A) |
+| Learn Git and GitHub in 3 Days | [Go to course](https://www.udemy.com/course/aprenda-git-e-github/?referralCode=ED51D4EC88BC19C1D6E3) |
+| Python Programming from Zero to Advanced + Real Projects | [Go to course](https://www.udemy.com/course/programacao-python-do-basico-ao-avancado/?referralCode=F3FA8DD3A5FBBC7DA264) |
+| Learn Java in 7 Days + Real Projects | [Go to course](https://www.udemy.com/course/draft/5145484/?referralCode=15155426A27942B2E20A) |
+| Learn TypeScript in 7 Days + Real Projects | [Go to course](https://www.udemy.com/course/aprenda-typescript-em-7-dias/?referralCode=FDD60769121F40820D7B) |
+| SQL Databases from Zero to Advanced | [Go to course](https://www.udemy.com/course/curso-sql-do-zero-ao-avancado/?referralCode=44FC5556E5BB0374D256) |
+| Learn Notion for Beginners in 2 Hours | [Go to course](https://www.udemy.com/course/aprenda-notion/?referralCode=A0A34BB03B6AE1A0453A) |
+| Amazon AWS Cloud Practitioner Certification (CLF-C02) | [Go to course](https://www.udemy.com/course/certificacao-amazon-aws-cloud-practitioner-clf-c02/?referralCode=CCDBB5BD4E8F8B020611) |
 
-## Próximos passos
+## Next Steps
 
-- Organizar os cursos por trilha de aprendizado (ex.: dados, web, cloud, IA).
-- Adicionar uma coluna de status (concluído / em andamento / desejado) para acompanhar o progresso.
-- Incluir uma breve nota sobre pré-requisitos de cada curso, quando houver.
+- Organize the courses by learning track (e.g., data, web, cloud, AI).
+- Add a status column (completed / in progress / wishlist) to track progress.
+- Include a brief note about each course's prerequisites, when applicable.
